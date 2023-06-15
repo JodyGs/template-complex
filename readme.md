@@ -1,4 +1,4 @@
-# portfolio-v1
+# template three.js
  
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
